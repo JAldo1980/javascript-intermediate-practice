@@ -1,4 +1,4 @@
-// the ...staffObjs is the REST Parameter
+// The below is the staff objects REST Parameter
 function getLabelsHtml(text, sender, ...staffObjs) {
   const labelsHtml = staffObjs
     .map(
@@ -20,7 +20,7 @@ const sender = "Tom";
 document.getElementById("labels-container").innerHTML = getLabelsHtml(
   text,
   sender,
-  // below are the staff objects
+  //   staff objects
   { name: "Sally" },
   { name: "Mike" },
   { name: "Rob" },
