@@ -1,5 +1,6 @@
 <h1>Welcome to the JavaScript Intermediate Practice Repository! 👋 </h1>
 <h5>This repository contains a collection of my practice files and projects that have helped enhance and shape my skills as a JavaScript developer.</h5>
+<h5>Skills practiced so far: Reduce Method | REST Parameter | Short-circuiting (OR op) | Spread operator</h5>
   
   <h6>Just to note, if you're looking to sharpen your own problem-solving abilities, explore advanced concepts, or simply practice coding, you'll find a variety of exercises to challenge yourself here - good luck.</h6>
 <br>
